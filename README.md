@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently looking for an **Internship**
+- 🔭 I’m a frontend developer intern at **Jotform**
 
-- 🌱 I’m currently learning **React, TypeScript and Node.js**
+- 🌱 I’m currently learning **Redux and Go**
 
-- 💬 Ask me about **React, JavaScript, Ant Design, Bootstrap**
+- 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **omerakcan.business@gmail.com**
 
