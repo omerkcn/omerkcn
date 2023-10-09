@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m a frontend developer intern at **Jotform**
+- 🔭 I’m a frontend developer looking for a part time job
 
 - 🌱 I’m currently learning **Redux and Go**
 
