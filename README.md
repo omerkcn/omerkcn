@@ -9,7 +9,7 @@
 
 - 🔭 I’m a frontend developer looking for a job
 
-- 🌱 I’m currently learning **Redux Toolkit Query**
+- 🌱 I’m currently learning **Redux Toolkit Query** and **Python** on my way to become a Full Stack Developer
 
 - 💬 Ask me about **Frontend Development**
 
