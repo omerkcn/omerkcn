@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m a frontend developer looking for a job
+- 🔭 I’m a **Frontend Developer**
 
 - 🌱 I’m currently learning **Redux Toolkit Query** and **Python** on my way to become a Full Stack Developer
 
