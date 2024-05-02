@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m a **Frontend Developer**
+✓ 🔭 I’m a **Frontend Developer**
 
-- 🌱 I’m currently learning **Redux Toolkit Query** and **Python** on my way to become a Full Stack Developer
+✓ 🌱 I’m currently learning **Redux Toolkit Query** and **Python** on my way to become a Full Stack Developer
 
-- 💬 Ask me about **Frontend Development**
+✓ 💬 Ask me about **Frontend Development**
 
-- 📫 How to reach me **omerakcan.business@gmail.com**
+✓ 📫 How to reach me **omerakcan.business@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
